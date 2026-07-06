@@ -7,7 +7,7 @@ public class MinMaxSwap {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[] arr = new int[n];
-        int maximum= Integer.MIN_VALUE;
+        int maximum= Integer.MIN_VALUE; 
         int minimum = Integer.MAX_VALUE;
         int minidx=0;
         int maxidx=0;
